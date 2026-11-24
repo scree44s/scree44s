@@ -19,6 +19,18 @@
 ##  - Links to a few of my Spreadsheets, Kinda old, but the code is good! Check out the free templates I made.
 ## https://docs.google.com/spreadsheets/d/1-auSVLmkMgMgMs0-gxi4HzghhE--gmYtV9gaSzXqlzQ/edit?gid=0#gid=0
 
+
+## Some Communities if you'd like:
+
+##  - My personal Discord server, we play games, have occassional parties, and I talk about my projects sometimes!
+## https://discord.gg/bx8SfYN5rA
+
+##  - Do you like D&D? Do you like SCP? Have you ever wanted to play a TTRPG inspired by Modern day science fiction Horror? Check out NERO! We are working on wrapping up the final phases of building the Core Game Rules and Players Handbook, and hope to have them published sometime in 2027!
+## https://discord.gg/J35sJm8Yyh
+
+##  - Drummer and Guitar Hero fan? Check out the Drummer's Monthly Discord. I started it back in 2022 and it has grown up and left the nest. Tons of great people there, tournaments, custom charts, programming help, general discussions and more!
+## https://discord.gg/bSWxRcSnmg
+
 <!--
 **scree44s/scree44s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
