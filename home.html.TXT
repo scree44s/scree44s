@@ -1,0 +1,13 @@
+<DOCTYPE? HTML>
+<header>
+
+
+</header>
+<body>
+
+
+
+</body>
+<footer>
+
+</footer>
